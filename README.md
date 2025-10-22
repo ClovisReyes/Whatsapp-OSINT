@@ -17,7 +17,7 @@ When you have your API key, you can add it to the **.env** file Replacing **"You
 <img src="https://github.com/ClovisReyes/WhatsOSINT/blob/main/img/WhatsappData.png" title="WhatsOSINT">
 <img src="https://github.com/ClovisReyes/WhatsOSINT/blob/main/img/WhatsappData_%20API.png" title="WhatsOSINT">
 
-# SUPPORTED DISTRIBUTIONS
+# SUPPORTED OS
 |Distribution | Version Check | supported | status |
 ----------|-------|------|-------|
 |Kali Linux| 2024.3| yes| working   |
