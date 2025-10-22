@@ -1,7 +1,7 @@
 # WhatsOSINT
 View data of a WhatsApp number, including its status, photo, etc.
 
-<img src="https://github.com/HackUnderway/WhatsOSINT/blob/main/img/Demo.png" title="WhatsOSINT">
+<img src="https://github.com/ClovisReyes/WhatsOSINT/blob/main/img/Demo.png" title="WhatsOSINT">
 
 # 🔑 API Key
 Get your API key.
@@ -14,8 +14,8 @@ Name | Key |
 
 When you have your API key, you can add it to the **.env** file Replacing **"Your_Api_Key"** with your actual RapidAPI key and save the changes.
 
-<img src="https://github.com/HackUnderway/WhatsOSINT/blob/main/img/WhatsappData.png" title="WhatsOSINT">
-<img src="https://github.com/HackUnderway/WhatsOSINT/blob/main/img/WhatsappData_%20API.png" title="WhatsOSINT">
+<img src="https://github.com/ClovisReyes/WhatsOSINT/blob/main/img/WhatsappData.png" title="WhatsOSINT">
+<img src="https://github.com/ClovisReyes/WhatsOSINT/blob/main/img/WhatsappData_%20API.png" title="WhatsOSINT">
 
 # SUPPORTED DISTRIBUTIONS
 |Distribution | Version Check | supported | status |
