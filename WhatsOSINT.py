@@ -69,7 +69,7 @@ def main():
     |:::|    
     `\\   \\   
       \\_=_\\ 
-    Consulta de datos de número de WhatsApp
+    Check WhatsApp number information
     """ + Style.RESET_ALL)
 
     numero = input("Introduce el número de teléfono (con código de país): ")
