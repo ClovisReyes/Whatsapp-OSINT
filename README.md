@@ -28,7 +28,7 @@ When you have your API key, you can add it to the **.env** file Replacing **"You
 
 # USAGE
 ```
-git clone https://github.com/HackUnderway/WhatsOSINT.git
+git clone https://github.com/ClovisReyes/Whatsapp-OSINT.git
 ```
 ```
 cd WhatsOSINT
