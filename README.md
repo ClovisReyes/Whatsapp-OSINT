@@ -1,4 +1,7 @@
 # WhatsOSINT
+
+<img src="https://i.imgur.com/kDs8lrj.png">
+
 View data of a WhatsApp number, including its status, photo, etc.
 
 <img src="https://github.com/ClovisReyes/Whatsapp-OSINT/blob/main/img/Demo.png" title="WhatsOSINT">
